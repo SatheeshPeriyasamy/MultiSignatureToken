@@ -13,7 +13,7 @@ The contract allows for:
 
 ### Setup
 Clone the repository and install dependencies:
-```bash
+```
 git clone https://github.com/SatheeshPeriyasamy/MultiSignatureToken
 cd MultiSignatureToken
 npm install
@@ -22,20 +22,12 @@ truffle compile
 
 
 #### Usage
-```markdown
 ### Deploying the Contract
 Deploy your contract using Truffle:
 ```bash
 truffle migrate --network development
 ```
 
-#### Tests
-```markdown
-### Running Tests
-Ensure that your contract functions as expected by running tests:
-```bash
-truffle test
-```
 
 #### Contributing
 ```markdown
